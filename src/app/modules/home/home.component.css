@@ -11,3 +11,9 @@
   background-color: #242a35;
   color: #dddddd;
 }
+
+.cent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

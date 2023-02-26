@@ -5,7 +5,6 @@ import { StefamonService } from '../../shared/services/stefamon.service';
   selector: 'app-stefamon',
   templateUrl: './stefamon.component.html',
   styleUrls: ['./stefamon.component.css'],
-  providers: [StefamonService]
 })
 export class StefamonComponent implements OnInit {
 
